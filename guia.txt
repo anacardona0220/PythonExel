@@ -1,0 +1,34 @@
+https://www.youtube.com/@codificando_
+
+
+fastAPI
+
+crear entorno virtual: 
+    python3 -m venv venv (modulo venv)
+
+activar el modulo : 
+    windows : venv/Script/activate
+        mac : source venv/bin/activate
+
+Installar modulos:
+    pip install fastapi
+
+actualizar pip :
+    pip install --upgrade pip
+
+Installar modulos uvicorn:
+    pip install fastapi uvicorn
+
+--------------------------------------
+
+crear archivo main.py
+
+
+
+ESTUDIAR : POO y principios solid
+
+
+https://www.youtube.com/watch?v=InPVEFDvWT0&t=2210s
+
+
+https://github.com/luismch158158/holbertonschool-higher_level_programming
